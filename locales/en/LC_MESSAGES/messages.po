@@ -1,0 +1,89 @@
+# English translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-09 10:53+0500\n"
+"PO-Revision-Date: 2025-05-09 10:54+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: bot/buttons/reply.py:17
+msgid "Asosiy menu:"
+msgstr ""
+
+#: bot/buttons/reply.py:18 bot/handlers/main.py:29
+msgid "Restoran menyusi"
+msgstr ""
+
+#: bot/buttons/reply.py:19
+msgid "Biz bilan bog'lanish"
+msgstr ""
+
+#: bot/buttons/reply.py:26 bot/handlers/main.py:34
+msgid "Salatlar"
+msgstr ""
+
+#: bot/buttons/reply.py:27 bot/handlers/main.py:38 bot/handlers/main.py:42
+msgid "Fast Food"
+msgstr ""
+
+#: bot/buttons/reply.py:28
+msgid "Issiq taomlar"
+msgstr ""
+
+#: bot/buttons/reply.py:29
+msgid "Orqaga (Asosiy menyuga qaytish)"
+msgstr ""
+
+#: bot/buttons/reply.py:36
+msgid "Sezar salati"
+msgstr ""
+
+#: bot/buttons/reply.py:37
+msgid "Olivye salati"
+msgstr ""
+
+#: bot/buttons/reply.py:38 bot/buttons/reply.py:46 bot/buttons/reply.py:54
+msgid "Orqaga (Restoran menyusiga qaytish)"
+msgstr ""
+
+#: bot/buttons/reply.py:44
+msgid "Burger"
+msgstr ""
+
+#: bot/buttons/reply.py:45
+msgid "Hot-dog"
+msgstr ""
+
+#: bot/buttons/reply.py:52
+msgid "Osh"
+msgstr ""
+
+#: bot/buttons/reply.py:53
+msgid "Sho'rva"
+msgstr ""
+
+#: bot/handlers/main.py:16
+#, python-brace-format
+msgid "Hello, {}"
+msgstr ""
+
+#: bot/handlers/main.py:21
+msgid "Choose language"
+msgstr ""
+
+#: bot/handlers/main.py:25
+msgid "Asosiy menu"
+msgstr ""
+
