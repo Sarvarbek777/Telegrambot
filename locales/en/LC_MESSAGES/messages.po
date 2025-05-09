@@ -20,19 +20,19 @@ msgstr ""
 
 #: bot/buttons/reply.py:17
 msgid "Asosiy menu:"
-msgstr ""
+msgstr "Menu"
 
 #: bot/buttons/reply.py:18 bot/handlers/main.py:29
 msgid "Restoran menyusi"
-msgstr ""
+msgstr "Restaurant menu"
 
 #: bot/buttons/reply.py:19
 msgid "Biz bilan bog'lanish"
-msgstr ""
+msgstr "Call us"
 
 #: bot/buttons/reply.py:26 bot/handlers/main.py:34
 msgid "Salatlar"
-msgstr ""
+msgstr "Salads"
 
 #: bot/buttons/reply.py:27 bot/handlers/main.py:38 bot/handlers/main.py:42
 msgid "Fast Food"
@@ -40,23 +40,23 @@ msgstr ""
 
 #: bot/buttons/reply.py:28
 msgid "Issiq taomlar"
-msgstr ""
+msgstr "Hot food"
 
 #: bot/buttons/reply.py:29
 msgid "Orqaga (Asosiy menyuga qaytish)"
-msgstr ""
+msgstr "Back"
 
 #: bot/buttons/reply.py:36
 msgid "Sezar salati"
-msgstr ""
+msgstr "Sezar salad"
 
 #: bot/buttons/reply.py:37
 msgid "Olivye salati"
-msgstr ""
+msgstr "Olivie salad"
 
 #: bot/buttons/reply.py:38 bot/buttons/reply.py:46 bot/buttons/reply.py:54
 msgid "Orqaga (Restoran menyusiga qaytish)"
-msgstr ""
+msgstr "Back"
 
 #: bot/buttons/reply.py:44
 msgid "Burger"
@@ -68,11 +68,11 @@ msgstr ""
 
 #: bot/buttons/reply.py:52
 msgid "Osh"
-msgstr ""
+msgstr "Palov"
 
 #: bot/buttons/reply.py:53
 msgid "Sho'rva"
-msgstr ""
+msgstr "Soup"
 
 #: bot/handlers/main.py:16
 #, python-brace-format
@@ -81,9 +81,9 @@ msgstr ""
 
 #: bot/handlers/main.py:21
 msgid "Choose language"
-msgstr ""
+msgstr "Tilni tanlang"
 
 #: bot/handlers/main.py:25
 msgid "Asosiy menu"
-msgstr ""
+msgstr "Menu"
 
